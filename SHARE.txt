@@ -1,0 +1,14 @@
+YapperMod - plugins, themes and tweaks for Yapper
+=================================================
+
+1. Close Yapper completely (right-click its tray icon and quit).
+2. Run YapperMod-Setup.exe.
+   If Windows says "Windows protected your PC", click More info -> Run anyway.
+   The app is not code-signed, but it is safe to share.
+3. Click "Install YapperMod".
+4. Launch Yapper and press Ctrl+Shift+Y (or click the round Y button).
+
+You can run the same EXE any time to update, repair or uninstall YapperMod.
+After a Yapper update, run it again and click Repair.
+
+Everything stays on your PC in %APPDATA%\Yapper\YapperMod
